@@ -13,7 +13,7 @@
 - 10장 애플리케이션 테스트 관리
 - 11장 응용 SW 기초 기술 활용
 - 12장 제품 소프트웨어 패키징
-- 기타) SQL 기본 문법
+- [기타) SQL 기본 문법](https://github.com/rowanna/information-processing-study/blob/main/999_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%96%B8%EC%96%B4_SQL_%EA%B3%B5%EB%B6%80/SQL_%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95.md)
 ---
 ## 기출문제 공부 바로가기
 - 1장 요구사항 확인
