@@ -9,9 +9,12 @@
 - 기타
 - 프로그래밍 언어
 - [기타) SQL 기본 문법](https://github.com/rowanna/information-processing-study/blob/main/999_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%96%B8%EC%96%B4_SQL_%EA%B3%B5%EB%B6%80/SQL_%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95.md)
+- [C언어](https://github.com/rowanna/information-processing-study/blob/main/999_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%96%B8%EC%96%B4_SQL_%EA%B3%B5%EB%B6%80/00_C%EC%96%B8%EC%96%B4.md)
+
+
 ---
 ## 문제 공부 바로가기
 
-- [C언어](https://github.com/rowanna/information-processing-study/blob/main/999_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%96%B8%EC%96%B4_SQL_%EA%B3%B5%EB%B6%80/00_C%EC%96%B8%EC%96%B4.md)
+- C언어
 - Java
 - Python
